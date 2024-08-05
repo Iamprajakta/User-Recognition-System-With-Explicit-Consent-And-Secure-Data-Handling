@@ -1,0 +1,2 @@
+# User-Recognition-System-With-Explicit-Consent-And-Secure-Data-Handling
+User Recognition System was recognized person help with MTCNN and our custom CNN. We created our own dataset with 50 different people. We would store per person 3 different photos and personal information. MTCNN helped to crop images and CNN recognized the person gave him/her personal information whatever was stored in our dataset
